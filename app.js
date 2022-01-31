@@ -43,7 +43,6 @@ nextButton.addEventListener('click', () => {
 		levelTwo.style.display = 'block';
 		nextButton.style.opacity = 0;
 		nextButton.style.pointerEvents = 'none';
-		ui;
 		uiLevel.textContent = 'Level 2';
 		uiMessage.textContent = 'Almost there...';
 	}
@@ -52,7 +51,6 @@ nextButton.addEventListener('click', () => {
 		levelThree.style.display = 'block';
 		nextButton.style.opacity = 0;
 		nextButton.style.pointerEvents = 'none';
-		ui;
 		uiLevel.textContent = 'Level 3';
 		uiMessage.textContent = 'One more to go...';
 	}
