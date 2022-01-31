@@ -4,7 +4,7 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-Javascript mouse pointer maze game
+Javascript mouse cursor maze game
 
 ### 🖼️ Image Preview
 
